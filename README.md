@@ -1,3 +1,2 @@
-# maven-project
-
-Simple Maven Project
+# jenkins-hello-world
+maven-based-jenkins-job
